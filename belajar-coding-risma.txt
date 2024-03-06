@@ -1,0 +1,6 @@
+Resolusi belajar coding RISMA :
+================================
+
+1 Bahasa pemrograman yang digunakan adalah JavaScript
+2 Semua yang dipelajari upload ke akun github ini
+3 Membuat projects sederhana 
